@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weather-In-Time/static/css/main.ff036a02.css",
+    "main.js": "/Weather-In-Time/static/js/main.edeedca4.js",
+    "index.html": "/Weather-In-Time/index.html",
+    "main.ff036a02.css.map": "/Weather-In-Time/static/css/main.ff036a02.css.map",
+    "main.edeedca4.js.map": "/Weather-In-Time/static/js/main.edeedca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff036a02.css",
+    "static/js/main.edeedca4.js"
+  ]
+}
